@@ -1,0 +1,8 @@
+gymnasium
+gym-super-mario-bros==7.4.0
+nes-py
+stable-baselines3
+tensorboard
+opencv-python
+pyyaml
+numpy
